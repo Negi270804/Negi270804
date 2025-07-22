@@ -29,7 +29,7 @@ here's a complete `README.md` file to make your **GitHub profile (Negi270804)**
 
 ## 📂 Featured Projects
 
-### 🔍 [EDA on Hotel Booking Data](https://github.com/Negi270804/hotel-booking-EDA)
+### 🔍 [EDA on Hotel Booking Data](https://github.com/Negi270804/Hotel-Booking-Project)
 
 Exploratory data analysis on hotel booking dataset to understand trends, cancellations, and booking behavior.
 
