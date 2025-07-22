@@ -33,7 +33,7 @@ here's a complete `README.md` file to make your **GitHub profile (Negi270804)**
 
 Exploratory data analysis on hotel booking dataset to understand trends, cancellations, and booking behavior.
 
-### 📉 [Yes Bank Stock Price Prediction (Regression Model)](https://github.com/Negi270804/yesbank-stock-regression)
+### 📉 [Yes Bank Stock Price Prediction (Regression Model)](https://github.com/Negi270804/Yesbank-Stock-Close-Price-Prediction)
 
 Used regression models to predict the stock prices of Yes Bank using historical stock data and time-based features.
 
