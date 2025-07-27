@@ -41,6 +41,9 @@ Used regression models to predict the stock prices of Yes Bank using historical 
 
 Built classification models (Decision Tree, Random Forest, Gradient Boosting) to predict mobile phone price categories.
 
+### 🛍️ [Online Retail Customer Segmentation(Clustering)](https://github.com/Negi270804/online_retail_segmentation_model)
+ Unsupervised ML project to segment customers using RFM features and clustering.
+
 ---
 
 ## 📈 GitHub Stats
