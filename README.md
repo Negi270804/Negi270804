@@ -1,4 +1,4 @@
-here's a complete `README.md` file to make your **GitHub profile (Negi270804)**
+A complete `README.md` file to make your **GitHub profile (Negi270804)**
 
 ---
 
@@ -43,6 +43,9 @@ Built classification models (Decision Tree, Random Forest, Gradient Boosting) to
 
 ### 🛍️ [Online Retail Customer Segmentation(Clustering)](https://github.com/Negi270804/online_retail_segmentation_model)
  Unsupervised ML project to segment customers using RFM features and clustering.
+
+### [Breast Cancer Prediction(Deep Learning)](https://github.com/Negi270804/Breast-cancer-prediction.git)
+  This project builds a deep learning model to predict breast cancer diagnoses based on cell nuclei features from the Wisconsin Breast Cancer Dataset.
 
 ---
 
