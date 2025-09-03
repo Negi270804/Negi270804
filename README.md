@@ -1,11 +1,10 @@
 A complete `README.md` file to make your **GitHub profile (Negi270804)**
 
----
 # 👋 Hi, I’m Nikhil Negi
 
-🔭 I’m a passionate data enthusiast and ML developer, actively building real-world projects using Python and machine learning.
+🔭 I’m a passionate data enthusiast and ML developer, actively building real-world projects using Python and machine learning.  
 
-🌱 Currently learning **Data Structures & Algorithms** and diving deeper into **ML model explainability**.
+🌱 Currently learning **Data Structures & Algorithms** and diving deeper into **ML model explainability**.  
 
 📫 Reach me via:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-negi-0bb166328)  
@@ -24,7 +23,7 @@ A complete `README.md` file to make your **GitHub profile (Negi270804)**
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154D94?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -33,32 +32,32 @@ A complete `README.md` file to make your **GitHub profile (Negi270804)**
 ## 📂 Featured Projects
 
 ### 🔍 [EDA on Hotel Booking Data](https://github.com/Negi270804/Hotel-Booking-Project)  
-Exploratory data analysis on hotel booking dataset to understand trends, cancellations, and booking behavior.
+Exploratory data analysis on hotel booking dataset to understand trends, cancellations, and booking behavior.  
 
 ### 📉 [Yes Bank Stock Price Prediction (Regression Model)](https://github.com/Negi270804/Yes-Bank-Stock-Close-Price-Prediction)  
-Used regression models to predict the stock prices of Yes Bank using historical stock data and time-based features.
+Used regression models to predict the stock prices of Yes Bank using historical stock data and time-based features.  
 
 ### 📱 [Mobile Price Range Prediction (Classification)](https://github.com/Negi270804/mobile-price-range-prediction)  
-Built classification models (Decision Tree, Random Forest, Gradient Boosting) to predict mobile phone price categories.
+Built classification models (Decision Tree, Random Forest, Gradient Boosting) to predict mobile phone price categories.  
 
 ### 🛍️ [Online Retail Customer Segmentation (Clustering)](https://github.com/Negi270804/online_retail_segmentation_model)  
-Unsupervised ML project to segment customers using RFM features and clustering.
+Unsupervised ML project to segment customers using RFM features and clustering.  
 
 ### 🧬 [Breast Cancer Prediction (Deep Learning)](https://github.com/Negi270804/Breast-cancer-prediction.git)  
-Deep learning model to predict breast cancer diagnoses based on cell nuclei features from the Wisconsin Breast Cancer Dataset.
+This project builds a deep learning model to predict breast cancer diagnoses based on cell nuclei features from the Wisconsin Breast Cancer Dataset.  
 
 ### 🌍 [Language Detection using NLP](https://github.com/Negi270804/Language-Detection-Prediction-Using-NLP..git)  
-Natural Language Processing project that predicts the language of a given text input using text classification techniques.
+Natural Language Processing project to detect the language of given text using machine learning models.  
 
 ### 😷 [Face Mask Detection using CNN](https://github.com/Negi270804/Face-Mask-Detection-using-CNN-model.git)  
-Deep learning CNN model to detect whether a person is wearing a face mask or not in real-time.
+Deep learning project using Convolutional Neural Networks to classify whether a person is wearing a face mask or not.  
 
 ---
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Negi270804&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Negi270804&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Negi270804&layout=compact&theme=radical)  
 
 ---
 
@@ -66,6 +65,7 @@ Deep learning CNN model to detect whether a person is wearing a face mask or not
 
 * 🔗 **LinkedIn**: [Nikhil Negi](https://www.linkedin.com/in/nikhil-negi-0bb166328)  
 * 🐙 **GitHub**: [Negi270804](https://github.com/Negi270804)  
-* 📧 **Gmail**: [neginikhil424@gmail.com](mailto:neginikhil424@gmail.com)
+* 📧 **Email**: [neginikhil424@gmail.com](mailto:neginikhil424@gmail.com)  
 
 ---
+
